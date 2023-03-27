@@ -1,0 +1,40 @@
+.work-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: calc(60px + 1vh);
+    padding-bottom: 4vh;
+    padding-left: 90px;
+  }
+  
+  .work-container {
+    max-width: 800px;
+    margin-bottom: 40px;
+  }
+  
+  .work-container h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .work-container .job-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .work-container .location-date {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .work-container ul {
+    list-style: disc;
+    margin-left: 40px;
+  }
+  
+  .work-container li {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  

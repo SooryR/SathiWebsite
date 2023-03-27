@@ -1,0 +1,24 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 8rem);
+    background-color: #fff;
+    margin-top: 1rem;
+    padding-left: 90px;
+  }
+
+  
+  .home-title {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .home-description {
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+  
