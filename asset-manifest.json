@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SathiWebsite/static/css/main.186530d7.css",
-    "main.js": "/SathiWebsite/static/js/main.dc0c5357.js",
+    "main.js": "/SathiWebsite/static/js/main.dbadbaed.js",
     "static/js/787.5809834d.chunk.js": "/SathiWebsite/static/js/787.5809834d.chunk.js",
     "static/media/resume.pdf": "/SathiWebsite/static/media/resume.d4b1ea9c758ca04f98ad.pdf",
     "index.html": "/SathiWebsite/index.html",
     "main.186530d7.css.map": "/SathiWebsite/static/css/main.186530d7.css.map",
-    "main.dc0c5357.js.map": "/SathiWebsite/static/js/main.dc0c5357.js.map",
+    "main.dbadbaed.js.map": "/SathiWebsite/static/js/main.dbadbaed.js.map",
     "787.5809834d.chunk.js.map": "/SathiWebsite/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.186530d7.css",
-    "static/js/main.dc0c5357.js"
+    "static/js/main.dbadbaed.js"
   ]
 }
