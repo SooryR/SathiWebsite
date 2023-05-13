@@ -1,0 +1,36 @@
+.contact-info-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .contact-info-container h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+  }
+  
+  .contact-info-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .contact-info-container li {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info-container li i {
+    margin-right: 10px;
+  }
+  
+  .contact-info-container li a {
+    color: #0077B5;
+    text-decoration: none;
+  }
+  
+  .contact-info-container li a:hover {
+    text-decoration: underline;
+  }
+  

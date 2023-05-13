@@ -8,12 +8,12 @@ const Header = () => {
             
             <nav className="header">
                 <div className="logo">
-                    <Link to="/">Your Logo</Link>
+                    <Link to="/">Sathi</Link>
                 </div>
                 <ul className="nav-links">
                     <li><Link to="/work">Work</Link></li>
-                    <li><Link to="/story">Story</Link></li>
-                    <li><Link to="/experiences">Experiences</Link></li>
+                    <li><Link to="/projects">Projects</Link></li>
+                    <li><Link to="/certification">Certification&Awards</Link></li>
                     <li><Link to="/contact">Contact</Link></li>
                 </ul>
             </nav>
